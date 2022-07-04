@@ -12,9 +12,9 @@
 |Transistor|BC337-40|NPN|1|R$ 0,69|
 |Placa de Prototipagem** (*Protoboard*)|-|830 Pontos|1|R$ 0,00|
 
-*O componente elétrico foi emprestado pelo professor Eduardo da Silva Simões
+*O componente elétrico foi emprestado pelo professor da disciplina;
 
-**O componente elétrico foi emprestado pelo professor Eduardo da Silva Simões
+**O componente elétrico foi emprestado pelo professor da disciplina.
 ## Circuito Elétrico
 ### Falstad
 ![](Imagens/Diagrama%20Esquemático%20(Falstad).png)

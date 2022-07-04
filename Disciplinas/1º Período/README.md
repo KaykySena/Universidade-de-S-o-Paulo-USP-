@@ -10,11 +10,10 @@
 |LED|333-2SDRD/S530-A3-L|Vermelho|1|R$ 0,48|
 |Potenciômetro|B10K|10 kΩ|1|R$ 7|
 |Transistor|BC337-40|NPN|1|R$ 0,69|
-|Placa de Prototipagem** (*Protoboard*)|-|830 Pontos|1|R$ 0,00|
+|Placa de Prototipagem* (*Protoboard*)|-|830 Pontos|1|R$ 0,00|
 
-*O componente elétrico foi emprestado pelo professor da disciplina;
+*O componente elétrico foi emprestado pelo professor da disciplina.
 
-**O componente elétrico foi emprestado pelo professor da disciplina.
 ## Circuito Elétrico
 ### Falstad
 ![](Imagens/Diagrama%20Esquemático%20(Falstad).png)

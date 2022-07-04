@@ -17,7 +17,7 @@
 **A placa de prototipagem (protoboard) foi emprestada pelo professor Eduardo da Silva Simões
 ## Circuito Elétrico
 ### Falstad
-(Imagem)
+![Diagrama esquemático no *software* Falstad](Imagens/Diagrama Esquemático%20(Falstad))
 
 https://tinyurl.com/27zkp3qr
 ### Eagle

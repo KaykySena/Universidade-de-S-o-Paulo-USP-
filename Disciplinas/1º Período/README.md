@@ -21,7 +21,7 @@
 
 https://tinyurl.com/27zkp3qr
 ### Eagle
-![Diagrama esquemático no *software* EAGLE]Imagens/(Diagrama%20Esquemático%20(EAGLE).png)
+![Diagrama esquemático no *software* EAGLE](Imagens/Diagrama%20Esquemático%20(EAGLE).png)
 ## Placa de Circuito de Impresso (PCB)
 ## Ripple
 (Imagem)

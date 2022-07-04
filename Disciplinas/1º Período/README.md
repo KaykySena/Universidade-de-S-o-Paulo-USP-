@@ -27,10 +27,11 @@ https://tinyurl.com/27zkp3qr
 ## Placa de Circuito de Impresso (PCB)
 ![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB).png)
 ### Parte Superior
+![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Parte%20Superior).2.png)
 ### Parte Inferior
-![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Parte%20Inferior).png)
+![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Parte%20Inferior.2).png)
 ### Furação
-![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Furação).png)
+![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Furação).2.png)
 ## Ripple
 (Imagem)
 ## Vídeo

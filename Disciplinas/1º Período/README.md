@@ -24,9 +24,12 @@ https://tinyurl.com/27zkp3qr
 ![](Imagens/Diagrama%20Esquemático%20(EAGLE).png)
 ## Placa de Circuito de Impresso (PCB)
 ![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB).png)
+### Parte Superior
 ![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Parte%20Superior).png)
-![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB).png)
-![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB).png)
+### Parte Inferior
+![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Parte%20Inferior).png)
+### Furação
+![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Furação).png)
 ## Ripple
 (Imagem)
 ## Vídeo

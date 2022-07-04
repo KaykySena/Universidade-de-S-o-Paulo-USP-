@@ -29,7 +29,7 @@ https://tinyurl.com/27zkp3qr
 ### Parte Superior
 ![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Parte%20Superior).2.png)
 ### Parte Inferior
-![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Parte%20Inferior.2).png)
+![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Parte%20Inferior).2.png)
 ### Furação
 ![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Furação).2.png)
 ## Ripple

@@ -19,7 +19,7 @@
 ![](Imagens/Diagrama%20Esquemático%20(Falstad).png)
 
 https://tinyurl.com/27zkp3qr
-### Eagle
+### EAGLE
 ![](Imagens/Diagrama%20Esquemático%20(EAGLE).png)
 ## Placa de Circuito de Impresso (PCB)
 ![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB).png)

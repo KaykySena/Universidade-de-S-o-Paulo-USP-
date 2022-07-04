@@ -1,4 +1,5 @@
 # Fonte de Tensão (3 V ~ 12 V)
+Trabalho solicitado pelo professor Eduardo do Vale Simões como critério parcial de avaliação da disciplina de Eletrônica para Computação, do 1º período de 2022, do curso de Ciências de Computação do Instituto de Ciências Matemáticas e de Computação (ICMC).
 ## Lista de Materiais
 | Material        | Modelo |Descrição|Quantidade           | Preço  |
 | ------------- |:-------------:| -----:| -----:| -----:|

@@ -17,14 +17,16 @@
 **A placa de prototipagem (protoboard) foi emprestada pelo professor Eduardo da Silva Simões
 ## Circuito Elétrico
 ### Falstad
-![Diagrama esquemático no *software* Falstad](Imagens/Diagrama%20Esquemático%20(Falstad).png)
+![](Imagens/Diagrama%20Esquemático%20(Falstad).png)
 
 https://tinyurl.com/27zkp3qr
 ### Eagle
-![Diagrama esquemático no *software* EAGLE](Imagens/Diagrama%20Esquemático%20(EAGLE).png)
+![](Imagens/Diagrama%20Esquemático%20(EAGLE).png)
 ## Placa de Circuito de Impresso (PCB)
-![Design da placa de circuito impresso (PCB)](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB).png)
-
+![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB).png)
+![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Parte%20Superior).png)
+![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB).png)
+![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB).png)
 ## Ripple
 (Imagem)
 ## Vídeo

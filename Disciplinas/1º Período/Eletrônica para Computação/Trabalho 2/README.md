@@ -25,8 +25,7 @@ Um sistema automático de rega baseado no nível de umidade do solo, assim como 
 
 **O custo da mangueira foi zero, pois o grupo reaproveitou duas mangueiras de "chuveirinhos" de chuveiros.
 
-## **Circuito Elétrico**
-
+![](Imagens/1.jpeg)
 
 ## **Grupo**
 * Kayky Pimentel de Sena;

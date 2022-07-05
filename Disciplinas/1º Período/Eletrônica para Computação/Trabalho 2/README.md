@@ -12,18 +12,18 @@ Um sistema automático de rega baseado no nível de umidade do solo, assim como 
 |Microcontrolador|UNO R3 + ESP8266|-|1|R$ 119,90|
 |Módulo Sensor de Temperatura e Umidade do Ar|DHT11|Digital|1|R$ 20,90|
 |Módulo Sensor de Umidade do Solo|-|Analógico|1|R$ 9,99|
-|Módulo Relé|-|1 Canal, 5 V|1|R$ 0,48|
-|Jumper Macho x Macho*|-|-|10|R$ 0,48|
-|Jumper Macho x Fêmea*|-|-|10|R$ 0,48|
-|Válvula Solenóide|-|1/2", 12 V, 180º|1|R$ 7|
+|Módulo Relé|-|1 Canal, 5 V|1|R$ 9,99|
+|Jumper Macho x Macho*|-|-|2|R$ 0,60|
+|Jumper Macho x Fêmea*|-|-|8|R$ 2,40|
+|Válvula Solenóide|-|1/2", 12 V, 180º|1|R$ R$ 54,90|
 |Engate Rosqueado|-|1/2"|2|R$ 15,00|
-|Mangueira**|-|1/2"|2|R$ 0,00|
+|Mangueira**|-|1/2"|1|R$ 0,00|
 |*Protoboard*|-|400 Pontos|1|R$ 14,99|
-|**Total**||||**R$ 0,00**|
+|**Total**||||**R$ 248,67**|
 
 *A quantidade de *jumpers* vai variar de acordo com a construção do circuito.
 
-**O custo da mangueira foi zero, pois o grupo reaproveitou duas mangueiras de "chuveirinhos" de chuveiros.
+**O custo da mangueira foi zero, pois o grupo reaproveitou uma mangueira do jardim do Instituto de Ciências Matemáticas e de Computação (ICMC).
 
 ![](Imagens/1.jpeg)
 

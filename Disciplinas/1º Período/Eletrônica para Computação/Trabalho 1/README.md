@@ -8,12 +8,13 @@ Uma fonte de tensão que recebe, em sua entrada, corrente alternada e tensão de
 |Transformador*|-|12 V + 12 V|1|R$ 0,00|
 |Diodo|1N4007|Silício|4|R$ 0,80|
 |Capacitor|470UFX25V|470 µF|1|R$ 1,05|
-|LED|333-2SDRD/S530-A3-L|Vermelho|1|R$ 0,48|
+|LED|333-2SDRD/S530-A3-L|Vermelho|1|R$ 0,50|
 |Resistor|1K|1 kΩ|7|R$ 0,49|
 |Diodo Zener|1N4743|13 V|1|R$ 0,48|
 |Potenciômetro|B10K|10 kΩ|1|R$ 7|
 |Transistor|BC337-40|NPN|1|R$ 0,69|
 |*Protoboard**|-|830 Pontos|1|R$ 0,00|
+|**Total**||||**R$ 11,01**|
 
 *O componente elétrico foi emprestado pelo professor da disciplina.
 
@@ -61,6 +62,8 @@ A protoboard foi o suporte por nós utilizado para estabelecer a ligação entre
   <img src="./Imagens/Fonte2.jpeg" width="50%">
   <img src = "./Imagens/Fonte3.jpeg" width = "94.8%">
 </p>
+
+## **Diagrama Esquemático**
 
 ### **Falstad**
 ![](Imagens/Diagrama%20Esquemático%20(Falstad).png)

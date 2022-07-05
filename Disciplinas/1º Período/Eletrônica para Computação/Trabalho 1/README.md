@@ -20,35 +20,35 @@ Uma fonte de tensão que recebe, em sua entrada, corrente alternada e tensão de
 ## Componentes Elétricos
 * Transformador:
     
-    O transformador reduz a tensão elétrica da entrada, a tomada, em nosso caso, sob a proporção de aproximadamente, 1 : 7,5, a razão entre o número de voltas dos enrolamentos primário e secundário. Assim, entre os seus terminais de saída, a tensão gira em torno de 22 V.
+O transformador reduz a tensão elétrica da entrada, a tomada, em nosso caso, sob a proporção de aproximadamente, 1 : 7,5, a razão entre o número de voltas dos enrolamentos primário e secundário. Assim, entre os seus terminais de saída, a tensão gira em torno de 22 V.
 
 * Ponte de Diodo
 
-    A ponte de diodo, construída através da junção de quatro diodos, complementa o papel do transformador, convertendo corrente alternada em contínua e, por conseguinte, os ciclos da senóide proveniente da tomada, em positivos e, assim, úteis à alimentação do circuito.
+A ponte de diodo, construída através da junção de quatro diodos, complementa o papel do transformador, convertendo corrente alternada em contínua e, por conseguinte, os ciclos da senóide proveniente da tomada, em positivos e, assim, úteis à alimentação do circuito.
 
 * Capacitor
 
-    O capacitor, por sua vez, armazena carga elétrica e produz corrente quando a tensão no circuito se torna inferior à tensão entre as suas armaduras e, assim, ele abaixa o valor de *ripple* no circuito (cerca de 10% em nosso projeto).
+O capacitor, por sua vez, armazena carga elétrica e produz corrente quando a tensão no circuito se torna inferior à tensão entre as suas armaduras e, assim, ele abaixa o valor de *ripple* no circuito (cerca de 10% em nosso projeto).
 
 * LED
 
-    É um elemento opcional, sendo o seu papel, apenas, de um sinalizar o funcionamento do circuito.
+É um elemento opcional, sendo o seu papel, apenas, de um sinalizar o funcionamento do circuito.
 
 * Resistor
 
-    Em síntese, os resistores promovem a diminuição do fluxo de corrente elétrica nos ramos do circuito, evitando a sobrecarga dos componentes, como é o caso do LED, por exemplo.
+Em síntese, os resistores promovem a diminuição do fluxo de corrente elétrica nos ramos do circuito, evitando a sobrecarga dos componentes, como é o caso do LED, por exemplo.
 
 * Diodo Zener
 
-    O diodo zener somente conduz eletricidade quando a tensão entre os seus terminais estiver acima da sua tensão de trabalho (13 V), o que viabiliza a entrega, na saída, de uma tensão máxima aproximada de 12,2 V.
+O diodo zener somente conduz eletricidade quando a tensão entre os seus terminais estiver acima da sua tensão de trabalho (13 V), o que viabiliza a entrega, na saída, de uma tensão máxima aproximada de 12,2 V.
 
 * Potenciômetro
 
-    O potênciometro nos permite o controle da diferença de potencial elétrico entre os terminais de saída da fonte, pois ele consiste em um resistor de resistência ajustável.
+O potênciometro nos permite o controle da diferença de potencial elétrico entre os terminais de saída da fonte, pois ele consiste em um resistor de resistência ajustável.
 
 * Transistor
 
-    O componente em questão exerce o controle da passagem de corrente elétrica.
+O componente em questão exerce o controle da passagem de corrente elétrica.
 
 * Placa de Prototipagem (*Protoboard*)
 

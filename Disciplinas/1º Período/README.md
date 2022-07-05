@@ -54,7 +54,6 @@ Uma fonte de tensão que recebe, em sua entrada, corrente alternada e tensão de
 
     A protoboard foi o suporte por nós utilizado para estabelecer a ligação entre os componentes elétricos do circuito.
 
-
 ## Circuito Elétrico
 ### Falstad
 ![](Imagens/Diagrama%20Esquemático%20(Falstad).png)

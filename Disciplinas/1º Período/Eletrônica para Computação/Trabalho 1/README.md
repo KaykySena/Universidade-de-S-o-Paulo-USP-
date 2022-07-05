@@ -55,6 +55,11 @@ O componente em questão exerce o controle da passagem de corrente elétrica.
     A protoboard foi o suporte por nós utilizado para estabelecer a ligação entre os componentes elétricos do circuito.
 
 ## Circuito Elétrico
+
+![](Imagens/Fonte1.jpeg)
+![](Imagens/Fonte2.jpeg)
+![](Imagens/Fonte3.jpeg)
+
 ### Falstad
 ![](Imagens/Diagrama%20Esquemático%20(Falstad).png)
 

@@ -1,8 +1,8 @@
-# Fonte de Tensão (3 V ~ 12 V)
+# **Fonte de Tensão**
 Trabalho solicitado pelo professor Eduardo do Vale Simões como critério parcial de avaliação da disciplina de Eletrônica para Computação, do 1º período de 2022, do curso de Ciências de Computação do Instituto de Ciências Matemáticas e de Computação (ICMC), da Universidade de São Paulo (USP).
-## Projeto
+## **Projeto**
 Uma fonte de tensão que recebe, em sua entrada, corrente alternada e tensão de 127V ou 220V, e converte em corrente contínua e tensão ajustável em um intervalo de 3V a 12V nos terminal de saída.
-## Lista de Materiais
+## **Lista de Materiais**
 | Material        | Modelo |Descrição|Quantidade           | Preço  |
 | ------------- |:-------------:| -----:| -----:| -----:|
 |Transformador*|-|12 V + 12 V|1|R$ 0,00|
@@ -17,44 +17,44 @@ Uma fonte de tensão que recebe, em sua entrada, corrente alternada e tensão de
 
 *O componente elétrico foi emprestado pelo professor da disciplina.
 
-## Componentes Elétricos
-* Transformador:
+## **Componentes Elétricos**
+### Transformador:
     
 O transformador reduz a tensão elétrica da entrada, a tomada, em nosso caso, sob a proporção de aproximadamente, 1 : 7,5, a razão entre o número de voltas dos enrolamentos primário e secundário. Assim, entre os seus terminais de saída, a tensão gira em torno de 22 V.
 
-* Ponte de Diodo:
+### Ponte de Diodo:
 
 A ponte de diodo, construída através da junção de quatro diodos, complementa o papel do transformador, convertendo corrente alternada em contínua e, por conseguinte, os ciclos da senóide proveniente da tomada, em positivos e, assim, úteis à alimentação do circuito.
 
-* Capacitor:
+### Capacitor:
 
 O capacitor, por sua vez, armazena carga elétrica e produz corrente quando a tensão no circuito se torna inferior à tensão entre as suas armaduras e, assim, ele abaixa o valor de *ripple* no circuito (cerca de 10% em nosso projeto).
 
-* LED:
+### LED:
 
 É um elemento opcional, sendo o seu papel, apenas, de um sinalizar o funcionamento do circuito.
 
-* Resistor:
+### Resistor:
 
 Em síntese, os resistores promovem a diminuição do fluxo de corrente elétrica nos ramos do circuito, evitando a sobrecarga dos componentes, como é o caso do LED, por exemplo.
 
-* Diodo Zener:
+### Diodo Zener:
 
 O diodo zener somente conduz eletricidade quando a tensão entre os seus terminais estiver acima da sua tensão de trabalho (13 V), o que viabiliza a entrega, na saída, de uma tensão máxima aproximada de 12,2 V.
 
-* Potenciômetro:
+### Potenciômetro:
 
 O potênciometro nos permite o controle da diferença de potencial elétrico entre os terminais de saída da fonte, pois ele consiste em um resistor de resistência ajustável.
 
-* Transistor:
+### Transistor:
 
 O componente em questão exerce o controle da passagem de corrente elétrica.
 
-* *Protoboard*:
+### *Protoboard*:
 
 A protoboard foi o suporte por nós utilizado para estabelecer a ligação entre os componentes elétricos do circuito.
 
-## Circuito Elétrico
+## **Circuito Elétrico**
 
 <p>
   <img src="./Imagens/Fonte1.jpeg" width="44.3%">
@@ -62,25 +62,25 @@ A protoboard foi o suporte por nós utilizado para estabelecer a ligação entre
   <img src = "./Imagens/Fonte3.jpeg" width = "94.8%">
 </p>
 
-### Falstad
+### **Falstad**
 ![](Imagens/Diagrama%20Esquemático%20(Falstad).png)
 
 https://tinyurl.com/27zkp3qr
-### EAGLE
+### **EAGLE**
 ![](Imagens/Diagrama%20Esquemático%20(EAGLE).png)
-## Placa de Circuito de Impresso (PCB)
+## **Placa de Circuito de Impresso (PCB)**
 ![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB).png)
-### Parte Superior
+### **Parte Superior**
 ![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Parte%20Superior).2.png)
-### Parte Inferior
+### **Parte Inferior**
 ![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Parte%20Inferior).2.png)
-### Furação
+### **Furação**
 ![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Furação).2.png)
-## Ripple
+## **Cálculos**
 (Imagem)
-## Vídeo
+## **Vídeo**
 (Link)
-## Grupo
+## **Grupo**
 * Kayky Pimentel de Sena;
 * Miller Matheus Lima Anacleto Rocha;
 * Gabriela Amadori;

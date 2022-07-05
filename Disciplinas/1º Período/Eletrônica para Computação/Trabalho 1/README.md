@@ -13,7 +13,7 @@ Uma fonte de tensão que recebe, em sua entrada, corrente alternada e tensão de
 |Diodo Zener|1N4743|13 V|1|R$ 0,48|
 |Potenciômetro|B10K|10 kΩ|1|R$ 7|
 |Transistor|BC337-40|NPN|1|R$ 0,69|
-|Placa de Prototipagem (*Protoboard*)*|-|830 Pontos|1|R$ 0,00|
+|*Protoboard**|-|830 Pontos|1|R$ 0,00|
 
 *O componente elétrico foi emprestado pelo professor da disciplina.
 
@@ -22,35 +22,35 @@ Uma fonte de tensão que recebe, em sua entrada, corrente alternada e tensão de
     
 O transformador reduz a tensão elétrica da entrada, a tomada, em nosso caso, sob a proporção de aproximadamente, 1 : 7,5, a razão entre o número de voltas dos enrolamentos primário e secundário. Assim, entre os seus terminais de saída, a tensão gira em torno de 22 V.
 
-* Ponte de Diodo
+* Ponte de Diodo:
 
 A ponte de diodo, construída através da junção de quatro diodos, complementa o papel do transformador, convertendo corrente alternada em contínua e, por conseguinte, os ciclos da senóide proveniente da tomada, em positivos e, assim, úteis à alimentação do circuito.
 
-* Capacitor
+* Capacitor:
 
 O capacitor, por sua vez, armazena carga elétrica e produz corrente quando a tensão no circuito se torna inferior à tensão entre as suas armaduras e, assim, ele abaixa o valor de *ripple* no circuito (cerca de 10% em nosso projeto).
 
-* LED
+* LED:
 
 É um elemento opcional, sendo o seu papel, apenas, de um sinalizar o funcionamento do circuito.
 
-* Resistor
+* Resistor:
 
 Em síntese, os resistores promovem a diminuição do fluxo de corrente elétrica nos ramos do circuito, evitando a sobrecarga dos componentes, como é o caso do LED, por exemplo.
 
-* Diodo Zener
+* Diodo Zener:
 
 O diodo zener somente conduz eletricidade quando a tensão entre os seus terminais estiver acima da sua tensão de trabalho (13 V), o que viabiliza a entrega, na saída, de uma tensão máxima aproximada de 12,2 V.
 
-* Potenciômetro
+* Potenciômetro:
 
 O potênciometro nos permite o controle da diferença de potencial elétrico entre os terminais de saída da fonte, pois ele consiste em um resistor de resistência ajustável.
 
-* Transistor
+* Transistor:
 
 O componente em questão exerce o controle da passagem de corrente elétrica.
 
-* Placa de Prototipagem (*Protoboard*)
+* *Protoboard*:
 
     A protoboard foi o suporte por nós utilizado para estabelecer a ligação entre os componentes elétricos do circuito.
 

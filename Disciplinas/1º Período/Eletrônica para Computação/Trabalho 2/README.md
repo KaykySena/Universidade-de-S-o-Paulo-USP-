@@ -15,7 +15,7 @@ Um sistema automático de rega baseado no nível de umidade do solo, assim como 
 |Módulo Relé|-|1 Canal, 5 V|1|R$ 9,99|
 |Jumper Macho x Macho*|-|-|2|R$ 0,60|
 |Jumper Macho x Fêmea*|-|-|8|R$ 2,40|
-|Válvula Solenóide|-|1/2", 12 V, 180º|1|R$ R$ 54,90|
+|Válvula Solenóide|-|1/2", 12 V, 180º|1|R$ 54,90|
 |Engate Rosqueado|-|1/2"|2|R$ 15,00|
 |Mangueira**|-|1/2"|1|R$ 0,00|
 |*Protoboard*|-|400 Pontos|1|R$ 14,99|

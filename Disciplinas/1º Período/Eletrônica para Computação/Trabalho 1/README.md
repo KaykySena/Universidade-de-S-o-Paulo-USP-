@@ -56,9 +56,11 @@ O componente em questão exerce o controle da passagem de corrente elétrica.
 
 ## Circuito Elétrico
 
-![](Imagens/Fonte1.jpeg)
-![](Imagens/Fonte2.jpeg)
-![](Imagens/Fonte3.jpeg)
+<p>
+  <img src="./Imagens/Fonte1.jpeg" width="44.3%">
+  <img src="./Imagens/Fonte2.jpeg" width="50%">
+  <img src = "./Imagens/Fonte3.jpeg" width = "94.8%">
+</p>
 
 ### Falstad
 ![](Imagens/Diagrama%20Esquemático%20(Falstad).png)

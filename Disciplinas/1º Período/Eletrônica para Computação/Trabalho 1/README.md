@@ -1,7 +1,7 @@
 # **Fonte de Tensão**
 Trabalho solicitado pelo professor Eduardo do Vale Simões como critério parcial de avaliação da disciplina de Eletrônica para Computação, do 1º período de 2022, do curso de Ciências de Computação do Instituto de Ciências Matemáticas e de Computação (ICMC), da Universidade de São Paulo (USP).
 ## **Projeto**
-Uma fonte de tensão que recebe, em sua entrada, corrente alternada e tensão de 127V ou 220V, e converte em corrente contínua e tensão ajustável em um intervalo de 3V a 12V nos terminal de saída.
+Uma fonte de tensão que recebe, em sua entrada, corrente alternada e tensão de 127V ou 220V, e converte em corrente contínua e tensão, entre os terminais da saída, ajustável em um intervalo de 3V a 12V.
 ## **Lista de Materiais**
 | Material        | Modelo |Descrição|Quantidade           | Preço  |
 | ------------- |:-------------:| -----:| -----:| -----:|

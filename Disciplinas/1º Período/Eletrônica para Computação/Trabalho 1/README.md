@@ -52,7 +52,7 @@ O componente em questão exerce o controle da passagem de corrente elétrica.
 
 * *Protoboard*:
 
-    A protoboard foi o suporte por nós utilizado para estabelecer a ligação entre os componentes elétricos do circuito.
+A protoboard foi o suporte por nós utilizado para estabelecer a ligação entre os componentes elétricos do circuito.
 
 ## Circuito Elétrico
 

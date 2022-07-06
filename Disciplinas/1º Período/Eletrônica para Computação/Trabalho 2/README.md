@@ -26,6 +26,11 @@ Um sistema automático de rega baseado no nível de umidade do solo, assim como 
 **O custo da mangueira foi zero, pois o grupo reaproveitou uma mangueira do jardim do Instituto de Ciências Matemáticas e de Computação (ICMC).
 
 ![](Imagens/1.jpeg)
+![](Imagens/Blynk.png)
+
+## **Diagrama Esquemático**
+
+![](Imagens/Conex%C3%B5es.png)
 
 ## **Grupo**
 * Kayky Pimentel de Sena;

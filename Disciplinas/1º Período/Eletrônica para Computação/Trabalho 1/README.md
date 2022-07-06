@@ -89,6 +89,15 @@ https://tinyurl.com/27zkp3qr
   <img src = "./Imagens/Cálculo4.png" width = "50%">
 </p>
 
+* A tensão eficaz (RMS) na fonte de corrente alternada (tomada) é de 127 V;
+* U<sub>1</sub>: tensão elétrica no enrolamento primário do transformador;
+* U<sub>2</sub>: tensão elétrica no enrolamento secundário do transformador;
+* U<sub>3</sub>: tensão elétrica na saída da ponte de diodo;
+* N<sub>1</sub>: número de voltas no enrolamento primário do transformador;
+* N<sub>2</sub>: número de voltas no enrolamento secundário do transformador;
+* O diodo é de silício e, portanto, a tensão elétrica em seus terminais é de, aproximadamente, 0,7 V;
+
+
 ### **Corrente Elétrica**
 
 <p>
@@ -98,9 +107,19 @@ https://tinyurl.com/27zkp3qr
   <img src = "./Imagens/Corrente%20Total.png" width = "50%">
 </p>
 
+* R<sub>1</sub>: resistência elétrica do resistor associado em série com o LED;
+* R<sub>2</sub>: resistência elétrica da carga associado em série com o diodo zener;
+* R<sub>3</sub>: resistência elétrica da carga;
+* U<sub>be</sub>: tensão elétrica entre a base e o emissor do transistor;
+* A tensão elétrica no LED é de cerca de 2 V.
+
 ### **Capacitância**
 
 ![](Imagens/Capacit%C3%A2ncia.png)
+
+* A frequência é de 120 Hz, o dobro da tomada, pois a nossa fonte de tensão conta com um retificador de onda completa;
+* O grupo fez uso de um capacitor de 470 µF, o primeiro valor comercial acima da capacitância mínima para um valor de *ripple* de 10%;
+* U<sub>rpp</sub>: tensão de *ripple*.
 
 ## **Vídeo**
 (Link)

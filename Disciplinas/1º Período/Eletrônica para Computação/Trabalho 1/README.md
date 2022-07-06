@@ -83,7 +83,7 @@ https://tinyurl.com/27zkp3qr
 ### **Tensão Elétrica**
 
 <p>
-  <img src="./Imagens/Cálculo1.png" width="47.1%">
+  <img src="./Imagens/Cálculo12.png" width="47.55%">
   <img src="./Imagens/Cálculo2.png" width="30%">
   <img src = "./Imagens/Cálculo3.png" width = "50%">
   <img src = "./Imagens/Cálculo4.png" width = "50%">
@@ -101,7 +101,7 @@ https://tinyurl.com/27zkp3qr
 ### **Corrente Elétrica**
 
 <p>
-  <img src="./Imagens/Corrente%20LED.png" width="40%">
+  <img src="./Imagens/Corrente%20LED2.png" width="42%">
   <img src="./Imagens/Corrente%20Regulador.png" width="48.3%">
   <img src = "./Imagens/Corrente%20Carga.png" width = "50%">
   <img src = "./Imagens/Corrente%20Total.png" width = "50%">

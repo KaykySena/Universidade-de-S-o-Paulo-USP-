@@ -80,7 +80,28 @@ https://tinyurl.com/27zkp3qr
 ### **Furação**
 ![](Imagens/Placa%20de%20Circuito%20Impresso%20(PCB)%20(Furação).2.png)
 ## **Cálculos**
-(Imagem)
+### **Tensão Elétrica**
+
+<p>
+  <img src="./Imagens/Cálculo1.png" width="50%">
+  <img src="./Imagens/Cálculo2.png" width="50%">
+  <img src = "./Imagens/Cálculo3.png" width = "50%">
+  <img src = "./Imagens/Cálculo4.png" width = "50%">
+</p>
+
+### **Corrente Elétrica**
+
+<p>
+  <img src="./Imagens/Corrente%20LED.png" width="50%">
+  <img src="./Imagens/Corrente%20Regulador.png" width="50%">
+  <img src = "./Imagens/Corrente%20Carga.png" width = "50%">
+  <img src = "./Imagens/Corrente%20Total.png" width = "50%">
+</p>
+
+### **Capacitância**
+
+![](Imagens/Capacit%C3%A2ncia.png)
+
 ## **Vídeo**
 (Link)
 ## **Grupo**

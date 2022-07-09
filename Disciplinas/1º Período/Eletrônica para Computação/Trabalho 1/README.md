@@ -17,7 +17,7 @@ Uma fonte de tensão que recebe, em sua entrada, corrente alternada e tensão de
 |**Total**||||**R$ 11,01**|
 
 *O componente elétrico foi emprestado pelo professor da disciplina.
-A
+
 ## **Componentes Elétricos**
 ### **Transformador**
     

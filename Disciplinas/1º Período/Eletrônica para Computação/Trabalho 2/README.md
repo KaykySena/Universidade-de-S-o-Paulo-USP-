@@ -24,9 +24,8 @@ Um sistema automático de rega baseado no nível de umidade do solo, assim como 
 *A quantidade de *jumpers* vai variar de acordo com a construção do circuito.
 
 **O custo da mangueira foi zero, pois o grupo reaproveitou uma mangueira do jardim do Instituto de Ciências Matemáticas e de Computação (ICMC).
-<p align = "center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/MQpC46KNnUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
+https://www.youtube.com/watch?v=MQpC46KNnUE
   
 ![](Imagens/1.jpeg)
 ![](Imagens/Blynk.png)

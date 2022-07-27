@@ -121,8 +121,6 @@ https://tinyurl.com/27zkp3qr
 * O grupo fez uso de um capacitor de 470 µF, o primeiro valor comercial acima da capacitância mínima para um valor de *ripple* de 10%;
 * U<sub>rpp</sub>: tensão de *ripple*.
 
-## **Vídeo**
-(Link)
 ## **Grupo**
 * Kayky Pimentel de Sena;
 * Miller Matheus Lima Anacleto Rocha;
